@@ -93,4 +93,4 @@ minibatch.
 We are using resnext50 for detecting and extracting the 
 frame level feature from videos. For fine tuning we are 
 using one extra layer and select a proper learning rate.
-![Libray Management App - Flask](https://github.com/ALONEWINNER/Splicing-Master/blob/main/Image_Splicing_Casia.ipynb)
+
